@@ -24,7 +24,7 @@ class BusinessCard extends StatelessWidget {
             ),
 
             Text(
-              'Khalid Speed',
+              'Khalid Test',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 32,
