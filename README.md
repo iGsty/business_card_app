@@ -28,7 +28,7 @@ This project is great for learning Flutter layouts, styling, and widget composit
 ---
 
 ## 📂 Project Structure
-
+```
 business_card_app/
 │-- lib/
 │ └── main.dart # Main entry point of the app
@@ -37,7 +37,7 @@ business_card_app/
 │-- fonts/
 │ └── Pacifico-Regular.ttf
 │-- pubspec.yaml # Flutter dependencies
-
+```
 
 ---
 
